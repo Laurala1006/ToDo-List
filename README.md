@@ -31,4 +31,6 @@ Built with SwiftUI for a responsive and modern interface.
 
 Use of Menu, Picker, and custom buttons for a smooth user experience.
 
-● Date Handling: Tasks display their due dates and automatically detect overdue tasks based on the current date.
+● Date Handling: 
+
+Tasks display their due dates and automatically detect overdue tasks based on the current date.
